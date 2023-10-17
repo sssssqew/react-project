@@ -8,37 +8,37 @@ const homeIcons = [
     },
     {
         iconTitle: '일하자',
-        iconSrc: 'images/work.png',
+        iconSrc: '../assets/images/work.png',
         url: '/work'
     },
     {
         iconTitle: '밥먹자', //'뭐먹지'로 변경? 
-        iconSrc: 'images/food.png',
+        iconSrc: '../assets/images/food.png',
         url: '/food'
     },
     {
         iconTitle: '세상에이런일이',
-        iconSrc: 'images/newspaper.png',
+        iconSrc: '../assets/images/newspaper.png',
         url: '/news'
     },
     {
         iconTitle: '집에가자', // '칼퇴하자'로 변경?
-        iconSrc: 'images/newhome.png', // 'images/home.png'에서 변경
+        iconSrc: '../assets/images/newhome.png', // 'images/home.png'에서 변경
         url: '/backhome'
     },
     {
         iconTitle: '만남의광장',
-        iconSrc: 'images/chat.png',
+        iconSrc: '../assets/images/chat.png',
         url: '/lounge'
     },
     {
         iconTitle: '설정',
-        iconSrc: 'images/settings.png',
+        iconSrc: '../assets/images/settings.png',
         url: '' // url 안바꾸고 모달로 설정창 띄우기
     },
     {
         iconTitle: '로그인',
-        iconSrc: 'images/users.png',
+        iconSrc: '../assets/images/users.png',
         url: '' // url 안바꾸고 모달로 로그인창 띄우기
     }
 ]
